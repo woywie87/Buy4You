@@ -1,0 +1,138 @@
+﻿<Page x:Class="fff.PersonPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:fff"
+        xmlns:p="clr-namespace:fff.Properties"
+      xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+      mc:Ignorable="d" 
+      Title="PersonPage">
+
+
+    <Page.Resources>
+
+        <ControlTemplate x:Key="ButtonControlTemplate" TargetType="{x:Type Button}">
+            <Grid>
+                <Ellipse Fill="Transparent" Stroke="Gray"  VerticalAlignment="Top" Height="40" Width="40" x:Name="theEllipse"/>
+                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Fill" Value="Gray" TargetName="theEllipse"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+    </Page.Resources>
+
+    <Grid  Background="AntiqueWhite">
+
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition  Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" >
+            <TextBlock x:Name="txbTitlePage" HorizontalAlignment="Stretch"  FontSize="24"  Margin="0,5,0,10" FontFamily="Trebuchet MS" Text="{x:Static p:Resources.PersonPageTitle}" Foreground="White" Background="DimGray"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,10">
+                <TextBox x:Name="txtPersonName" Text="{x:Static p:Resources.PersonNew}"   Margin="15,0,0,0" FontWeight="UltraLight" HorizontalAlignment="Stretch" MinWidth="260" Height="34" FontSize="19" FontFamily="Segoe UI Semilight"></TextBox>
+                <Button x:Name="btnAddPerson" Click="btnAddPerson_Click" FontFamily="Segoe MDL2 Assets" ToolTip="{x:Static p:Resources.PersonAddTip}" Template="{DynamicResource ButtonControlTemplate}"  Margin="10,0,0,0">
+                    <TextBlock Text="&#xE710;"  Foreground="Black" FontWeight="UltraLight" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="25" FontFamily="Segoe MDL2 Assets"  ></TextBlock>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+
+
+
+        <ListBox Name="lstPersons"  Grid.Row="1" Grid.Column="0"     Margin="20,20,0,40" SelectionChanged="lstPersons_SelectionChanged" Background="AntiqueWhite" ItemsSource="{Binding}" >
+
+                    <ListBox.ContextMenu>
+                        <ContextMenu Name="menuRemovePerson" StaysOpen="true" Background="WhiteSmoke">
+                            <ContextMenu.BitmapEffect>
+                                <BitmapEffectGroup/>
+                            </ContextMenu.BitmapEffect>
+                            <MenuItem Header="{x:Static p:Resources.Delete}" Name="removePerson" Click="removePerson_Click_1"/>
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
+
+
+                    <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="Background" Value="AntiqueWhite" />
+                        <Setter Property="BorderThickness" Value="0" />
+                        <Style.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter Property="Background" Value="SteelBlue" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+
+
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel x:Name="wrapPanel" Background="AntiqueWhite" Width="Auto"  />
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel  Orientation="Horizontal" Width="Auto" MinWidth="150" Height="70" Margin="17,0,0,17" Background= "{Binding PersonColor}"  >
+                            <TextBlock x:Name="txbPerson" Foreground="{Binding PersonColor2}"    FontFamily="Segoe MDL2 Assets" Margin="10,2,0,0"  HorizontalAlignment="Center" VerticalAlignment="Center"  FontSize="30"  Text="&#xE13D;"/>
+                            <TextBlock FontFamily="Segoe UI" HorizontalAlignment="Center" Margin="10,0,10,0" VerticalAlignment="Center" Foreground="{Binding PersonColor2}" FontSize="20"  Text="{Binding Name}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+        <DataGrid x:Name="lstPersonDetails" Visibility="Collapsed"   Margin="50,20,40,40" Grid.Row="1" Grid.Column="1"  VerticalAlignment="Top"  SelectionMode="Single"   SelectionUnit="FullRow" IsReadOnly="True" AutoGenerateColumns="False"   FontSize="16" FontWeight="UltraLight"   ItemsSource="{Binding}">
+                    
+                    <DataGrid.Columns>
+                <DataGridTemplateColumn Header="{x:Static p:Resources.Event}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding EventName}" FontWeight="Normal"   />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="{x:Static p:Resources.ReportPersonHeaderOwn}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                            <TextBlock Text="{Binding OwnPrice}"  HorizontalAlignment="Center" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="{x:Static p:Resources.ReportPersonHeaderDebtM}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock  HorizontalAlignment="Center" Text="{Binding MPrice}" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="{x:Static p:Resources.ReportPersonHeaderDebtF}">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock  HorizontalAlignment="Center" Text="{Binding FPrice}" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                    </DataGrid.Columns>
+
+                </DataGrid>
+
+       
+   
+
+    </Grid>
+</Page>

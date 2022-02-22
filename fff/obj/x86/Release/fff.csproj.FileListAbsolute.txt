@@ -1,0 +1,397 @@
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\zakupy.db
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\fff.exe.config
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\fff.exe
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\fff.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\MySql.Data.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLite-net.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLite.Net.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLitePCL.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\MySql.Data.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\SQLite-net.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\Resources\Icons.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\AboutPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\EventsPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\MainWindow.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\PersonPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\ReportPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\SalePage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\SettingsPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\SummaryPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\App.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff_Content.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff_MarkupCompile.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff_MarkupCompile.lref
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\App.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\AboutPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\EventsPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\MainWindow.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\PersonPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\ReportPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\SalePage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\SettingsPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\SummaryPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.g.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.Properties.Resources.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.Properties.Resources.en.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.Properties.Resources.pl-PL.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.csproj.GenerateResource.Cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.exe
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u\fff\obj\x86\Release\fff.csprojResolveAssemblyReference.cache
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\zakupy.db
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\fff.exe.config
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\fff.exe
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\fff.pdb
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MySql.Data.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite-net.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCL.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MySql.Data.xml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite-net.xml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.csprojResolveAssemblyReference.cache
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\Resources\Icons.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\AboutPage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\EventsPage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\MainWindow.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\PersonPage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\ReportPage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SalePage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SettingsPage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SummaryPage.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\App.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff_Content.g.cs
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff_MarkupCompile.cache
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff_MarkupCompile.lref
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\App.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\AboutPage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\EventsPage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\MainWindow.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\PersonPage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\ReportPage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SalePage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SettingsPage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SummaryPage.baml
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.g.resources
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.resources
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.en.resources
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.pl-PL.resources
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.GenerateResource.Cache
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.exe
+C:\Users\pitcairn\Desktop\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.pdb
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\zakupy.db
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\fff.exe.config
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\fff.exe
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\fff.pdb
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MySql.Data.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite-net.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCL.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.xml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\MySql.Data.xml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\SQLite-net.xml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.csprojResolveAssemblyReference.cache
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\Resources\Icons.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\AboutPage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\EventsPage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\MainWindow.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\PersonPage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\ReportPage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SalePage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SettingsPage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SummaryPage.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\App.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff_Content.g.cs
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff_MarkupCompile.cache
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff_MarkupCompile.lref
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\App.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\AboutPage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\EventsPage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\MainWindow.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\PersonPage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\ReportPage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SalePage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SettingsPage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\SummaryPage.baml
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.g.resources
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.resources
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.en.resources
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.pl-PL.resources
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.GenerateResource.Cache
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.exe
+C:\Users\pitcairn\source\repos\Buy4u_wpf\Buy4u_wpf\fff\obj\x86\Release\fff.pdb
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\zakupy.db
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\fff.exe.config
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\fff.exe
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\fff.pdb
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLite-net.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLitePCL.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\SQLite-net.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\Resources\Icons.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\AboutPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\EventsPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\MainWindow.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\PersonPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\ReportPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\SalePage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\SettingsPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\SummaryPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\App.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff_Content.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff_MarkupCompile.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff_MarkupCompile.lref
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\App.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\AboutPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\EventsPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\MainWindow.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\PersonPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\ReportPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\SalePage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\SettingsPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\SummaryPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.g.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.en.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.Properties.Resources.pl-PL.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.GenerateResource.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.exe
+C:\Users\pitcairn\Downloads\Buy4u_wpf\fff\obj\x86\Release\fff.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\zakupy.db
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\fff.exe.config
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\fff.exe
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\fff.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLite-net.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLite.Net.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCL.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\SQLite-net.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.csprojAssemblyReference.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\Resources\Icons.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\AboutPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\EventsPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\MainWindow.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\PersonPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\ReportPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\SalePage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\SettingsPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\SummaryPage.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\App.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff_Content.g.cs
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff_MarkupCompile.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff_MarkupCompile.lref
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\App.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\AboutPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\EventsPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\MainWindow.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\PersonPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\ReportPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\SalePage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\SettingsPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\SummaryPage.baml
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.g.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.Properties.Resources.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.Properties.Resources.en.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.Properties.Resources.pl-PL.resources
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.csproj.GenerateResource.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.csproj.CopyComplete
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.exe
+C:\Users\pitcairn\Documents\Visual Studio 2017\Projects\Buy4u_wpf_new\fff\obj\x86\Release\fff.pdb
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\x86\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\x64\e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\zakupy.db
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCL.Ext.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\fff.exe.config
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\fff.exe
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\fff.pdb
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\MahApps.Metro.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLite-net.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLite.Net.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLite.Net.Platform.Generic.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLite.Net.Platform.Win32.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLiteNetExtensions.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCL.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.core.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.Linq.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\System.Windows.Interactivity.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\MahApps.Metro.pdb
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\MahApps.Metro.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\SQLite-net.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.xml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\bin\x86\Release\System.Data.SQLite.dll.config
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.csprojAssemblyReference.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\Resources\Icons.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\Resources\IconsNonShared.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\AboutPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\EventsPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\MainWindow.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\PersonPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\ReportPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\SalePage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\SettingsPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\SummaryPage.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\App.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff_Content.g.cs
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff_MarkupCompile.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff_MarkupCompile.lref
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\App.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\AboutPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\EventsPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\MainWindow.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\PersonPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\ReportPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\SalePage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\SettingsPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\SummaryPage.baml
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.g.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.Properties.Resources.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.Properties.Resources.en.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.Properties.Resources.pl-PL.resources
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.csproj.GenerateResource.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.csproj.CoreCompileInputs.cache
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\en\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\pl-PL\fff.resources.dll
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.csproj.CopyComplete
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.exe
+C:\Users\pitcairn\Downloads\Buy4u_wpf_new\fff\obj\x86\Release\fff.pdb

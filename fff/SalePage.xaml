@@ -1,0 +1,227 @@
+﻿<Page x:Class="fff.SalePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:fff"
+      xmlns:p="clr-namespace:fff.Properties"
+      mc:Ignorable="d" 
+     
+      Title="SalePage">
+
+
+    <Page.Resources>
+
+
+        <ControlTemplate x:Key="ButtonControlTemplate2" TargetType="{x:Type Button}">
+            <Grid>
+                <Rectangle Fill="Transparent" Stroke="Gray"  VerticalAlignment="Center" Height="25" Width="25" x:Name="theRect"/>
+                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Fill" Value="Gray" TargetName="theRect"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+        <ControlTemplate x:Key="ButtonControlTemplate" TargetType="{x:Type Button}">
+            <Grid>
+                <Ellipse Fill="Transparent" Stroke="Gray"  VerticalAlignment="Top" Height="35" Width="35" x:Name="theEllipse"/>
+                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Fill" Value="Gray" TargetName="theEllipse"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+        <ControlTemplate x:Key="ButtonControlTemplate3" TargetType="{x:Type Button}">
+            <Grid>
+                <Ellipse Fill="LightSteelBlue" Stroke="Gray"  VerticalAlignment="Top" Height="35" Width="35" x:Name="theEllipse"/>
+                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Fill" Value="Gray" TargetName="theEllipse"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+
+    </Page.Resources>
+    <Grid  Background="LightGray">
+
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+
+        <StackPanel Grid.Row="0">
+            <StackPanel Margin="0,5,0,10" HorizontalAlignment="Stretch"  Background="DimGray">
+                <TextBlock x:Name="txbEventTitle" FontSize="24" Margin="20,0,0,0"  FontFamily="Trebuchet MS" Text="{Binding}"  Foreground="AntiqueWhite" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,0">
+                <StackPanel>
+                    <TextBlock Text="{x:Static p:Resources.SalePayerToolTip}" Margin="0,0,0,5" FontFamily="Segoe UI Semilight" Foreground="#FF213A3A" FontSize="16" Width="150" x:Name="txbPayer"/>
+                    <ComboBox  x:Name="cmbPayer"  Height="34" SelectedIndex="0" FontSize="19" FontFamily="Segoe UI Semilight"   Width="150"   ItemsSource="{Binding}" DisplayMemberPath="Name"/>
+                </StackPanel>
+                <StackPanel Margin="40,0,0,0">
+                    <TextBlock Text="{x:Static p:Resources.SaleBuyerToolTip}" HorizontalAlignment="Left"  Margin="0,0,0,5" FontFamily="Segoe UI Semilight" Foreground="#FF213A3A" FontSize="15"  x:Name="txbBuyers"/>
+                    <StackPanel  Orientation="Horizontal">
+                        <ListView VerticalAlignment="Bottom"  SelectionMode="Multiple" BorderThickness="1" Background="AntiqueWhite" BorderBrush="LightGray"  x:Name="lstBuyers" Height="35"  ItemsSource="{Binding}">
+                            <ListView.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel  Orientation="Horizontal"></StackPanel>
+                                </ItemsPanelTemplate>
+                            </ListView.ItemsPanel>
+                            <ListView.ItemTemplate >
+                                <DataTemplate>
+                                    <Border Background="{Binding PersonColor}" ToolTip="{Binding Name}" BorderBrush="Gray" BorderThickness="0.5" Height="25"  Width="25">
+                                        <TextBlock VerticalAlignment="Center"  Foreground="{Binding PersonColor2}"  HorizontalAlignment="Center" Text="{Binding Initials}"/>
+                                    </Border>
+
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+
+                        </ListView>
+
+                        <CheckBox  VerticalAlignment="Center" Margin="10,0,0,0" Checked="chkAll_Checked" BorderBrush="Gray"  Unchecked="chkAll_Unchecked"  x:Name="chkAll"  >
+                            <CheckBox.LayoutTransform>
+                                <ScaleTransform ScaleX="1.5" ScaleY="1.5" />
+                            </CheckBox.LayoutTransform>
+                        </CheckBox>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel HorizontalAlignment="Center" Margin="13,10,0,0" Orientation="Horizontal">
+                <TextBox  x:Name="txtDescription"  Height="34" Width="180" FontSize="19"  FontFamily="Segoe UI Semilight"  Text="{x:Static p:Resources.SaleNewSale}" Margin="10,0,0,0" />
+                <TextBox x:Name="txtPrice" ToolTip="{x:Static p:Resources.SalePriceTip}" Width="50" Height="34"  FontSize="19" FontFamily="Segoe UI Semilight"   Margin="10,0,0,0" />
+
+
+                <Button x:Name="btnExpandCalc" ToolTip="{x:Static p:Resources.SaleExpCalcTip}" Click="btnExpandCalc_Click" Height="35" Width="35" Template="{DynamicResource ButtonControlTemplate}"   Margin="10,0,0,0">
+                    <TextBlock Text="&#xE1D0;" Foreground="Black"  FontSize="17" FontWeight="UltraLight" FontFamily="Segoe MDL2 Assets"  />
+                </Button>
+
+
+                <Button x:Name="btnSaleCuurency" ToolTip="Waluta" Click="btnSaleCuurency_Click" Height="35" Width="35" FontWeight="Normal" Template="{DynamicResource ButtonControlTemplate3}"  Margin="10,0,0,0"/>
+                <Button x:Name="btnAddSale" ToolTip="{x:Static p:Resources.SaleAddTip}" Click="btnAddSale_Click" Height="35" Width="35" FontFamily="Segoe MDL2 Assets" Template="{DynamicResource ButtonControlTemplate}"  Margin="10,0,0,0">
+                    <TextBlock Text="&#xE710;" Foreground="Black" FontWeight="UltraLight"  FontSize="17" FontFamily="Segoe MDL2 Assets"  />
+                </Button>
+
+              
+
+                    <StackPanel Orientation="Horizontal">
+                    <!-- <TextBox x:Name="txtCurrValue"  Foreground="Black"  FontSize="17" Width="100" FontWeight="UltraLight"  /> -->
+                </StackPanel>
+
+            </StackPanel>
+
+
+            <StackPanel Margin="5,10,0,0" HorizontalAlignment="Center" x:Name="stkCalc" Visibility="Collapsed" Orientation="Horizontal">
+                <TextBox x:Name="txtCalc"  Width="250" Margin="10,0,0,0"  CommandManager.PreviewExecuted="txtCalc_PreviewExecuted" PreviewKeyDown="txtCalc_KeyDown" FontSize="19"/>
+                <Button x:Name="btnMoveCalcValue" ToolTip="{x:Static p:Resources.CalcSum}" Click="btnMoveCalcValue_Click"  Height="25" Width="25" FontFamily="Segoe MDL2 Assets" Template="{DynamicResource ButtonControlTemplate2}"  Margin="10,0,0,0">
+                    <TextBlock Text="&#xE110;" Foreground="Black" FontWeight="UltraLight"  FontSize="15" FontFamily="Segoe MDL2 Assets"  />
+                </Button>
+                <Button x:Name="btnClearCalc"  ToolTip="{x:Static p:Resources.CalcClear}" Click="btnClearCalc_Click" Height="25" Width="25" FontFamily="Segoe MDL2 Assets" Template="{DynamicResource ButtonControlTemplate2}"  Margin="10,0,0,0">
+                    <TextBlock Text="&#xE10A;" Foreground="Black" FontWeight="UltraLight"  FontSize="15" FontFamily="Segoe MDL2 Assets"  />
+                </Button>
+            </StackPanel>
+
+        </StackPanel>
+
+
+
+
+        <ListView Margin="0,10,0,0" Grid.Row="1"   x:Name="lstSaleDetails" Background="AntiqueWhite" BorderThickness="0"  MouseDoubleClick="lstSaleDetails_MouseDoubleClick"   ItemsSource="{Binding}">
+
+            <ListView.ContextMenu>
+                <ContextMenu Name="menuRemoveSale" StaysOpen="true" Background="WhiteSmoke">
+                    <ContextMenu.BitmapEffect>
+                        <BitmapEffectGroup/>
+                    </ContextMenu.BitmapEffect>
+                    <MenuItem Header="{x:Static p:Resources.Delete}" Name="removeSale" Click="removeSale_Click"/>
+                    <MenuItem Header="{x:Static p:Resources.Settle}" Name="settleSale" Click="SettleSale_OnClick"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Height" Value="34" />
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"></Setter>
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.ItemTemplate >
+                <DataTemplate>
+                    <Grid x:Name="grdSaleDetails"  Height="Auto" Background="{Binding IsSettledColor}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                         
+                        </Grid.ColumnDefinitions>
+                        <Border ToolTip="{Binding Payers.Name}" BorderThickness="1" BorderBrush="Gray"  Grid.Column="0" Margin="20,3,0,0" VerticalAlignment="Top" Background="{Binding Payers.PersonColor}" Height="25"  Width="25">
+                            <TextBlock HorizontalAlignment="Center"  FontFamily="Segoe UI Semilight" Foreground="{Binding Payers.PersonColor2}" VerticalAlignment="Center" Margin="0,0,0,0" FontSize="15" Text="{Binding Payers.Initials}"/>
+                        </Border>
+                        <TextBlock   VerticalAlignment="Top" Margin="10,5,0,0" Grid.Column="1"  FontSize="15" FontFamily="Segoe UI Semilight"  Text="{Binding Description}"/>
+                        <TextBlock   VerticalAlignment="Top" Margin="10,5,0,0"  Grid.Column="2"  FontSize="15"  FontFamily="Segoe UI Semilight" Text="{Binding PriceConv}"/>
+
+
+                       
+
+                        <ListView x:Name="lstBuyPrices" BorderThickness="0"  ScrollViewer.PanningMode="HorizontalOnly" ScrollViewer.HorizontalScrollBarVisibility="Hidden"   Grid.Column="3" Height="60" Width="Auto" VerticalAlignment="Top" IsEnabled="True" Background="AntiqueWhite" Margin="10,0,0,0" ItemsSource="{Binding bList}" >
+                            <ListView.ItemContainerStyle>
+                                <Style TargetType="ListViewItem">
+                                    <Setter Property="Background" Value="AntiqueWhite" />
+                                </Style>
+                            </ListView.ItemContainerStyle>
+                            <ListView.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel  Orientation="Horizontal"></StackPanel>
+                                </ItemsPanelTemplate>
+                            </ListView.ItemsPanel>
+
+                            <ListView.ItemTemplate >
+                                <DataTemplate>
+                                    <StackPanel x:Name="stkBuyPrice" Background="AntiqueWhite" >
+                                        <Border Background="{Binding Buyers.PersonColor}" ToolTip="{Binding Buyers.Name}" BorderBrush="Gray" BorderThickness="1"  Height="20"  Width="25">
+                                            <TextBlock    FontSize="12" FontFamily="Trebuchet MS" HorizontalAlignment="Center" VerticalAlignment="Center"  Foreground="{Binding Buyers.PersonColor2}"  Text="{Binding Buyers.Initials}"/>
+                                        </Border>
+
+                                        <Border Margin="0,10,0,0" Background="Gray" BorderBrush="Gray" BorderThickness="1" Height="20"  Width="25">
+                                            <TextBlock    FontSize="12" FontFamily="Trebuchet MS" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" Text="{Binding Price}"/>
+                                        </Border>
+
+                                        
+
+                                    </StackPanel>
+
+
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                        <TextBlock   VerticalAlignment="Top" Margin="10,5,0,0"  Grid.Column="4"  FontSize="15"  FontFamily="Segoe UI Semilight" Text="{Binding BasePriceConv}"/>
+                        <!--
+                        <Border ToolTip="Rozliczone" BorderThickness="1" BorderBrush="Gray"  Grid.Column="5" Margin="50,3,0,0"  VerticalAlignment="Top" Background="Gray" Height="25" >
+                            <TextBlock HorizontalAlignment="Center"  FontFamily="Segoe UI Semilight" Foreground="White" VerticalAlignment="Top" FontSize="15" Text="{Binding Settled}"/>
+                        </Border>
+                        -->
+
+                    </Grid>
+
+                </DataTemplate>
+
+            </ListView.ItemTemplate>
+        </ListView>
+   
+        <TextBlock x:Name="txbSumSale" Grid.Row="2" Height="20" Margin="10,10,10,10" FontSize="17"  Text="{Binding}" />
+
+    </Grid>
+</Page>

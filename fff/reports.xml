@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<reports>
+  
+    <report>
+      <id>1</id>
+      <title>Customreport</title>
+      <query>
+	  select Name,PersonColor from Persons	  
+	  </query>
+   </report>
+   
+      <report>
+      <id>2</id>
+      <title>Customreport 2</title>
+      <query>
+	  select EventName, EventDate from Events	  
+	  </query>
+   </report>
+   
+	
+
+</reports>

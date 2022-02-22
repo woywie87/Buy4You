@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CalcClear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="CalcSum" xml:space="preserve">
+    <value>Sum</value>
+  </data>
+  <data name="DatabaseErase" xml:space="preserve">
+    <value>USUWANIE BAZY</value>
+  </data>
+  <data name="DateChoose" xml:space="preserve">
+    <value>Wybierz datę</value>
+  </data>
+  <data name="DecimalOnly" xml:space="preserve">
+    <value>Tylko liczby</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Usuń</value>
+  </data>
+  <data name="Deleted" xml:space="preserve">
+    <value>Usunięte</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Ściągnij</value>
+  </data>
+  <data name="DownloadDatabaseExpand" xml:space="preserve">
+    <value>Ściągnij bazę</value>
+  </data>
+  <data name="DuplCol" xml:space="preserve">
+    <value>Zduplikowane kolumny, pamiętaj o aliasach</value>
+  </data>
+  <data name="EraseDatabase" xml:space="preserve">
+    <value>Wyczyść bazę</value>
+  </data>
+  <data name="Event" xml:space="preserve">
+    <value>Wydarzenie</value>
+  </data>
+  <data name="EventAddTip" xml:space="preserve">
+    <value>Dodaj wydarzenia</value>
+  </data>
+  <data name="EventCalendarTip" xml:space="preserve">
+    <value>Wybierz dzień</value>
+  </data>
+  <data name="EventExpPersonTip" xml:space="preserve">
+    <value>Wybierz osoby</value>
+  </data>
+  <data name="EventFill" xml:space="preserve">
+    <value>Wpisz nazwę wydarzenia</value>
+  </data>
+  <data name="EventNew" xml:space="preserve">
+    <value>Nowe wydarzenie</value>
+  </data>
+  <data name="EventPageTitle" xml:space="preserve">
+    <value>Wydarzenia</value>
+  </data>
+  <data name="EventSoloCheck" xml:space="preserve">
+    <value>Tryp solo</value>
+  </data>
+  <data name="Expense" xml:space="preserve">
+    <value>Wydatek</value>
+  </data>
+  <data name="ExpenseFill" xml:space="preserve">
+    <value>Wpisz nazwę wydatku</value>
+  </data>
+  <data name="FieldsEmpty" xml:space="preserve">
+    <value>Wszystkie pola muszą być wypełnione</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="LoginFormat" xml:space="preserve">
+    <value>Login musi mieć przynajmniej 6 znaków</value>
+  </data>
+  <data name="LoginPassWrond" xml:space="preserve">
+    <value>Błędny login lub hasło</value>
+  </data>
+  <data name="MainPageToolTipAbout" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="MainPageToolTipEvent" xml:space="preserve">
+    <value>Wydarzenia</value>
+  </data>
+  <data name="MainPageToolTipPerson" xml:space="preserve">
+    <value>Oosby</value>
+  </data>
+  <data name="MainPageToolTipReports" xml:space="preserve">
+    <value>Raporty użytkownika</value>
+  </data>
+  <data name="MainPageToolTipSettings" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="MainPageToolTipSummary" xml:space="preserve">
+    <value>Podsumowanie</value>
+  </data>
+  <data name="NotPasswords" xml:space="preserve">
+    <value>Hasła nie pasują</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="PassFormat" xml:space="preserve">
+    <value>Hasło musi mieć przynajmniej 6 znaków</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Hasło</value>
+  </data>
+  <data name="PayerChoose" xml:space="preserve">
+    <value>Wybierz płatnika</value>
+  </data>
+  <data name="PersonAddTip" xml:space="preserve">
+    <value>Dodaj osobę</value>
+  </data>
+  <data name="PersonChoose" xml:space="preserve">
+    <value>Wybierz osobę</value>
+  </data>
+  <data name="PersonFill" xml:space="preserve">
+    <value>Wpisz osobę</value>
+  </data>
+  <data name="PersonNew" xml:space="preserve">
+    <value>Nowa osoba</value>
+  </data>
+  <data name="PersonOneChoose" xml:space="preserve">
+    <value>Wybierz przynajmniej jedną osobę</value>
+  </data>
+  <data name="PersonPageTitle" xml:space="preserve">
+    <value>Osoby</value>
+  </data>
+  <data name="PersonSoloChoode" xml:space="preserve">
+    <value>W trybie solo możesz wybrać tylko jedną osobę</value>
+  </data>
+  <data name="PriceFill" xml:space="preserve">
+    <value>Wpisz cenę</value>
+  </data>
+  <data name="QueryWrong" xml:space="preserve">
+    <value>Błędne zapytanie</value>
+  </data>
+  <data name="RegisterExpand" xml:space="preserve">
+    <value>Rejestracja</value>
+  </data>
+  <data name="ReportFileProblem" xml:space="preserve">
+    <value>Nie znaleziono pliku 'reports.xml'</value>
+  </data>
+  <data name="ReportPageTitle" xml:space="preserve">
+    <value>  Raporty</value>
+  </data>
+  <data name="ReportPersonHeaderDebtF" xml:space="preserve">
+    <value>Należność</value>
+  </data>
+  <data name="ReportPersonHeaderDebtM" xml:space="preserve">
+    <value>Dług</value>
+  </data>
+  <data name="ReportPersonHeaderOwn" xml:space="preserve">
+    <value>Własne wydatki</value>
+  </data>
+  <data name="SaleAddTip" xml:space="preserve">
+    <value>Dodaj wydatek</value>
+  </data>
+  <data name="SaleBuyerToolTip" xml:space="preserve">
+    <value>Kupował</value>
+  </data>
+  <data name="SaleExpCalcTip" xml:space="preserve">
+    <value>Rozwiń kalkulator</value>
+  </data>
+  <data name="SaleNewSale" xml:space="preserve">
+    <value>Nowy wydatek</value>
+  </data>
+  <data name="SalePageTitle" xml:space="preserve">
+    <value>Wydatki</value>
+  </data>
+  <data name="SalePayerToolTip" xml:space="preserve">
+    <value>Płacił</value>
+  </data>
+  <data name="SalePriceTip" xml:space="preserve">
+    <value>Kwota</value>
+  </data>
+  <data name="SettingsPageTitle" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="Settle" xml:space="preserve">
+    <value>Rozlicz</value>
+  </data>
+  <data name="StringWrong" xml:space="preserve">
+    <value>Zły ciąg</value>
+  </data>
+  <data name="Summary" xml:space="preserve">
+    <value>Szczegóły</value>
+  </data>
+  <data name="SummaryPageTitle" xml:space="preserve">
+    <value>Podsumowanie</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Wyślij</value>
+  </data>
+  <data name="UploadDatabaseExpand" xml:space="preserve">
+    <value>Wyślij bazę</value>
+  </data>
+  <data name="XmlProblem" xml:space="preserve">
+    <value>Problem z plikiem XML</value>
+  </data>
+  <data name="YetServerDatabase" xml:space="preserve">
+    <value>Pliku bazy nie ma jeszcze na serwerze</value>
+  </data>
+  <data name="YouAre" xml:space="preserve">
+    <value>Czy na pewno chcesz usunąć bazę?</value>
+  </data>
+</root>
